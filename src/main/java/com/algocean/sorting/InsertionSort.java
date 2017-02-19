@@ -11,7 +11,8 @@ import java.util.List;
  * 
  * Properties : In-place, Stable.
  * 
- * Time complexity: O(n^2) Space complexity: O(1);
+ * Time complexity: O(n^2) 
+ * Space complexity: O(1);
  *
  */
 public class InsertionSort implements Sorter {
