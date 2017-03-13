@@ -18,6 +18,7 @@ public class InsertionSortTest {
 	@Parameters
 	public static Collection<Object[]> testData(){
 		return Arrays.asList(new Object[][]{
+			{Arrays.asList(1), Arrays.asList(1)},
 			{Arrays.asList(1, 2, 3), Arrays.asList(3, 2, 1)},
 			{Arrays.asList(20, 35, 99), Arrays.asList(35, 99, 20)},
 			{Arrays.asList(2, 2, 2), Arrays.asList(2, 2, 2)},
