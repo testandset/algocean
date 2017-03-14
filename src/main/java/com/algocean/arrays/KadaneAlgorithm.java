@@ -1,4 +1,4 @@
-package com.algocean;
+package com.algocean.arrays;
 
 import java.util.List;
 
